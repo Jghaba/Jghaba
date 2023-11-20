@@ -1,16 +1,22 @@
-### Hi there 👋
+💫 About Me:
+🔭 I am currently working on developing myself mentally and physically.
+👯 I am looking to collaborate on full-stack projects.
+🤝 I am looking for help with the exploration of multiple IT areas.
+🌱 I am currently studying at ASE Informatics Economy.
+💬 Ask me about anything.
+⚡ Fun fact -> I’m happy to make anyone laugh when necessary
 
-<!--
-**Jghaba/Jghaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Sergiu Cernica)
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C# C++ .Net Java Python Supabase MariaDB MySQL NumPy Pandas Confluence NodeJS React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
